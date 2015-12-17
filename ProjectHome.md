@@ -1,0 +1,1 @@
+a simple map tool for symbian
